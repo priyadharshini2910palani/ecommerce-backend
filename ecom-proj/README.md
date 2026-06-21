@@ -32,4 +32,6 @@
 - DELETE /api/product/{id}
 
 ## Author
-Priyadharshini Palani
+Priyadharshini P
+
+Final Year ECE Student | Java & Spring Boot Developer
